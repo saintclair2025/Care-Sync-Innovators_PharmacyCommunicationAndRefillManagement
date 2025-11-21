@@ -1,6 +1,8 @@
 # Care-Sync-Innovators_PharmacyCommunicationAndRefillManagement
+
 Team Name:Care-Sync-Innovators
 Project Title:Pharmacy Communication And Refill Management
+
 Purpose of the project:
 The goal of Med Link is to reduce manual steps, eliminate communication delays, and improve medication adherence through a digital, easy-to-use platform. The system ensures faster processing, improved accuracy, and a better overall pharmacy experience.
 
